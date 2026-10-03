@@ -1,1 +1,3 @@
-# git-graph
+
+
+![Git graph](./assets/git-graph.svg)
